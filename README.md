@@ -2,8 +2,8 @@
     A simple file storage api to store and manipulate files on filesystem or aws
     
 ### Installation
-    Install requirements from requirements file using : 
-    > pip install -r requirements.txt
+    Install requirements from requirements file using  
+    ``` pip install -r requirements.txt ```
    
     
 ### Function documentation:
