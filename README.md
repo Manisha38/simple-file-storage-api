@@ -3,9 +3,8 @@
     
 ### Installation
     Install requirements from requirements file using : 
-    ```
-    pip install -r requirements.txt
-    ```
+    > pip install -r requirements.txt
+   
     
 ### Function documentation:
     The global variable flag contains a numberic value set according to the type of storage mechanism as following:
