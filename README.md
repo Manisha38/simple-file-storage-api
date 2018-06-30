@@ -2,7 +2,10 @@
     A simple file storage api to store and manipulate files on filesystem or aws
     
 ### Installation
-    Install requirements from requirements file using : ```pip install -r requirements.txt```
+    Install requirements from requirements file using : 
+    ```
+    pip install -r requirements.txt
+    ```
     
 ### Function documentation:
     The global variable flag contains a numberic value set according to the type of storage mechanism as following:
